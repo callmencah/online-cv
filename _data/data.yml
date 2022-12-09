@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Nurcahyadi
-    tagline: QA Engginer
+    tagline: QA Engineer
     avatar: profile1.jpg
 
     # Sidebar links
@@ -45,37 +45,26 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+Hi, Im Nurcahyadi Experienced IT HelpDesk Support representative with strong background in the installation and
+maintenance of software and hardware. Trained to deliver an exceptional level of customer service in IT support. Ready to
+take four-plus years in the field to repair, modify, install, and advise in the management of software and hardware
+and I’m currently learning Mobile Autoamtion & Flutter Mobile apps.
+ - Managed administrative server functions, including back-ups, upgrades, recovery, management of disk space, and more
+ - Member of the research and development team that evaluated and implemented applications
+ - Designed and conducted online training for customers and company employees
+ - Monitor business applications via remote desktop
+ - Work with end users, resolving their software and hardware issues in efficient manners
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: Student
+        university: Sekolah QA
+        time: 2022
+      - degree: Tehnik Informatika
+        university: Universitas Mercubuana
+        time: 2016 - 2020
+    
 experiences:
     title: Experiences
     info:
